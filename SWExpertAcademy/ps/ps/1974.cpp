@@ -43,7 +43,7 @@ bool scanPan() {
 	return true;
 }
 
-int main() {
+int main1974() {
 	int T, i = 1;
 
 	cin >> T;
@@ -53,4 +53,5 @@ int main() {
 
 		i++;
 	}
+	return 0;
 }
