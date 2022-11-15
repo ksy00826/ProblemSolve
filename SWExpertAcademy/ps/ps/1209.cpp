@@ -49,7 +49,7 @@ int calDiagonal() {
 	return max(maxVal, sum);
 }
 
-int main() {
+int main1209() {
 	int T = 10, i;
 
 	while (T-- > 0) {
@@ -59,4 +59,5 @@ int main() {
 		int maxVal = max({ calHorison(), calVertic(), calDiagonal() });
 		cout << "#" << i << " " << maxVal << endl;
 	}
+	return 0;
 }
