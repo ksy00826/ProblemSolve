@@ -30,6 +30,8 @@
     <ClCompile Include="1954.cpp" />
     <ClCompile Include="1974.cpp" />
     <ClCompile Include="2001.cpp" />
+    <ClCompile Include="2005.cpp" />
+    <ClCompile Include="2007.cpp" />
     <ClCompile Include="2071.cpp" />
     <ClCompile Include="2072.cpp" />
   </ItemGroup>
